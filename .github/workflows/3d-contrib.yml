@@ -1,0 +1,25 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.11.0
+        with:
+          username: arun-raze19
+          output_dir: ./profile-3d-contrib
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add ./profile-3d-contrib
+          git commit -m "chore: update 3D contribution graph [skip ci]" || echo "No changes to commit"
+          git push
