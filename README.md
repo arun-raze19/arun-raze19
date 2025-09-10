@@ -1,10 +1,28 @@
 
+
+<p align="center">
+	<!-- Vibrant Animated SVG Banner -->
+	<img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/images/marquee.svg" width="100%" alt="Animated Banner"/>
+</p>
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Kumar!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
 	<img src="https://github.com/arun-raze19/arun-raze19/blob/main/images/Developer.gif" width="250" />
+</p>
+<p align="center">
+	<!-- Real-time Visitor Counter -->
+	<img src="https://komarev.com/ghpvc/?username=arun-raze19&label=Profile%20views&color=0e75b6&style=flat" alt="arun-raze19"/>
+</p>
+<p align="center">
+	<!-- 3D Profile Card -->
+	<img src="https://github.com/arun-raze19/arun-raze19/blob/main/images/profile-3d-card.svg" width="400" alt="3D Profile Card"/>
+</p>
+<p align="center">
+	<!-- 3D Contribution Calendar -->
+	<img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contribution Graph"/>
 </p>
 
 ---
@@ -183,15 +201,23 @@ PC Building / Repair
 	<img src="https://github-readme-stats.vercel.app/api?username=arun-raze19&show_icons=true&theme=radical" alt="GitHub Stats"/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-raze19&theme=radical" alt="GitHub Streak"/>
 	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=arun-raze19&theme=react-dark" alt="GitHub Activity Graph"/>
+	<!-- Dynamic Language Usage Chart -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-raze19&layout=compact&theme=radical" alt="Top Languages"/>
+	<!-- Advanced GitHub Metrics -->
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arun-raze19&theme=github_dark" alt="Profile Details"/>
+	<img src="https://github-profile-trophy.vercel.app/?username=arun-raze19&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 📂 Projects
 
-<!-- Add your top projects here -->
-- [Project 1](https://github.com/arun-raze19/project1): Description
-- [Project 2](https://github.com/arun-raze19/project2): Description
+
+<!-- Animated Project Showcase -->
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=arun-raze19&repo=WA_LLM_BOT&theme=radical" alt="WA_LLM_BOT"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=arun-raze19&repo=MECLLMBOT_TG&theme=radical" alt="MECLLMBOT_TG"/>
+</p>
 
 ---
 
