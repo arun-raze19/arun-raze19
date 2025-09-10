@@ -1,9 +1,49 @@
+## 🚀 Dynamic Highlights
 
-
+<p align="center">
+	<!-- Real-time Latest Commits -->
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun-raze19&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
+<p align="center">
+	<!-- Real-time PRs and Issues -->
+	<img src="https://img.shields.io/github/issues-pr/arun-raze19/arun-raze19?color=purple&label=Open%20PRs&logo=github"/>
+	<img src="https://img.shields.io/github/issues/arun-raze19/arun-raze19?color=orange&label=Open%20Issues&logo=github"/>
+</p>
+<p align="center">
+	<!-- Dynamic Blog Feed (DEV.to) -->
+	<a href="https://dev.to/arunraze19">
+		<img src="https://github-readme-medium.vercel.app/?username=arunraze19&limit=3" alt="Latest Blog Posts"/>
+	</a>
+</p>
+<p align="center">
+	<!-- Animated Badge Wall -->
+	<img src="https://github-profile-trophy.vercel.app/?username=arun-raze19&theme=onestar&margin-w=10&margin-h=10" alt="Trophy Wall"/>
+</p>
+<p align="center">
+	<!-- Interactive Visitor Map -->
+	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/visitors.svg" alt="Visitor Map"/>
+</p>
+<p align="center">
+	<!-- Now Playing Widget (Spotify) -->
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w3w4k2k2k2k2k2k2k2k2k2k2k2&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify"/>
+</p>
+<p align="center">
+	<!-- Support Me / Sponsor Section -->
+	<a href="https://github.com/sponsors/arun-raze19">
+		<img src="https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me"/>
+	</a>
+</p>
 <p align="center">
 	<!-- Vibrant Animated SVG Banner -->
 	<img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/images/marquee.svg" width="100%" alt="Animated Banner"/>
 </p>
+<p align="center" style="font-size:2em;">
+	<span>👋</span> <b>Hi, I'm Arun Kumar!</b> <span>👨‍💻</span>
+</p>
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Welcome+to+my+dynamic+GitHub+profile!;Python+%7C+Web+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+<hr style="height:4px; border:none; background:linear-gradient(90deg,#f7971e,#ffd200,#21d4fd,#b721ff); margin:20px 0;"/>
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Kumar!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
@@ -12,6 +52,29 @@
 <p align="center">
 	<img src="https://github.com/arun-raze19/arun-raze19/blob/main/images/Developer.gif" width="250" />
 </p>
+<p align="center">
+	<!-- Animated Social Icons -->
+	<a href="https://www.linkedin.com/in/arunraze/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+	<a href="mailto:ceo@muacloud.in"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+	<a href="https://github.com/arun-raze19"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+<hr style="height:2px; border:none; background:linear-gradient(90deg,#21d4fd,#b721ff,#f7971e,#ffd200); margin:20px 0;"/>
+## 🎉 Fun Facts
+
+- 🏆 CEO & Co-founder at Mua Technologies
+- 🤖 Built multiple AI bots and open-source projects
+- 🌏 Loves collaborating and sharing knowledge
+- 🎨 Enjoys creative coding and design
+- 🏋️‍♂️ Fitness and tech enthusiast
+
+---
+
+## 💡 Quote
+
+<p align="center" style="font-size:1.3em; font-style:italic; color:#b721ff;">
+	"The best way to predict the future is to invent it."<br>— Alan Kay
+</p>
+<hr style="height:2px; border:none; background:linear-gradient(90deg,#ffd200,#21d4fd,#b721ff,#f7971e); margin:20px 0;"/>
 <p align="center">
 	<!-- Real-time Visitor Counter -->
 	<img src="https://komarev.com/ghpvc/?username=arun-raze19&label=Profile%20views&color=0e75b6&style=flat" alt="arun-raze19"/>
@@ -229,7 +292,18 @@ PC Building / Repair
 	<a href="mailto:arunkumar1974pro@gmail.com"><img src="https://img.shields.io/badge/Personal%20Email-arunkumar1974pro@gmail.com-blue?style=for-the-badge&logo=gmail"/></a>
 	<span style="font-size:1.1em; color:#333; margin-left:10px;">📞 +91 9500600673</span>
 </p>
+## 🕒 Recent GitHub Activity
 
+- **September 2025:** Created 5 commits in [arun-raze19/arun-raze19](https://github.com/arun-raze19/arun-raze19/commits?author=arun-raze19&since=2025-09-01&until=2025-09-11)
+- **Contributions in the last year:** 94
+- **Pinned Projects:**
+	- [WA_LLM_BOT](https://github.com/arun-raze19/WA_LLM_BOT)
+	- [MECLLMBOT_TG](https://github.com/arun-raze19/MECLLMBOT_TG)
+	- [WEB-ASSIST-BOT](https://github.com/arun-raze19/WEB-ASSIST-BOT)
+	- [Plagiarism Detector](https://github.com/arun-raze19/plagiarism-detector)
+	- [Python Fingerprint Recognizer](https://github.com/arun-raze19/python-fingerprint-recognizer)
+
+For more, see your [full commit history](https://github.com/arun-raze19/arun-raze19/commits/main) and [GitHub profile](https://github.com/arun-raze19).
 ---
 
 <p align="center">
