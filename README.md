@@ -11,7 +11,7 @@
 
 <p align="center">
 	<a href="https://github.com/arun-raze19?tab=followers"><img src="https://img.shields.io/github/followers/arun-raze19?label=Followers&style=social" alt="GitHub Followers"></a>
-	<a href="mailto:arunraze19@gmail.com"><img src="https://img.shields.io/badge/Email-arunraze19%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
+	<a href="mailto:arunkumar1974@gmail.com"><img src="https://img.shields.io/badge/Email-arunkumar1974%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
 	<a href="https://www.linkedin.com/in/arunraze/"><img src="https://img.shields.io/badge/LinkedIn-arunraze-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
