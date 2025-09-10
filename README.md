@@ -20,14 +20,6 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=arun-raze19&theme=onestar&margin-w=10&margin-h=10" alt="Trophy Wall"/>
 </p>
 <p align="center">
-	<!-- Interactive Visitor Map -->
-	<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/visitors.svg" alt="Visitor Map"/>
-</p>
-<p align="center">
-	<!-- Now Playing Widget (Spotify) -->
-	<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w3w4k2k2k2k2k2k2k2k2k2k2k2&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify"/>
-</p>
-<p align="center">
 	<!-- Support Me / Sponsor Section -->
 	<a href="https://github.com/sponsors/arun-raze19">
 		<img src="https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me"/>
@@ -39,9 +31,6 @@
 </p>
 <p align="center" style="font-size:2em;">
 	<span>👋</span> <b>Hi, I'm Arun Kumar!</b> <span>👨‍💻</span>
-</p>
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Welcome+to+my+dynamic+GitHub+profile!;Python+%7C+Web+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 <hr style="height:4px; border:none; background:linear-gradient(90deg,#f7971e,#ffd200,#21d4fd,#b721ff); margin:20px 0;"/>
 <p align="center">
