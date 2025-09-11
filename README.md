@@ -55,8 +55,7 @@
 - 🌏 Loves collaborating and sharing knowledge
 - 🎨 Enjoys creative coding and design
 - 🏋️‍♂️ Fitness and tech enthusiast
--  i love scarlett johansen
-
+-  i love deadpool movies
 ---
 
 ## 💡 Quote
@@ -295,7 +294,3 @@ PC Building / Repair
 
 For more, see your [full commit history](https://github.com/arun-raze19/arun-raze19/commits/main) and [GitHub profile](https://github.com/arun-raze19).
 ---
-
-<p align="center">
-	<img src="https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/main/images/footer.svg"/>
-</p>
