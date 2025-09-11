@@ -55,6 +55,7 @@
 - 🌏 Loves collaborating and sharing knowledge
 - 🎨 Enjoys creative coding and design
 - 🏋️‍♂️ Fitness and tech enthusiast
+-  i love scarlett johansen
 
 ---
 
